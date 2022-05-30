@@ -1,0 +1,76 @@
+.head{
+    top: 0;
+    min-height: 88px;
+    width: 95%;
+    margin: 0 auto;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    border: 2px solid chartreuse;
+    background-color: rgb(211, 170, 238);
+    margin-top: 30px;
+    font-weight: bold;
+    color: rgb(26, 1, 248);
+    
+}
+h1{
+    text-align: center;
+    font-family: 'Festive', cursive;
+    font-family: 'Great Vibes', cursive;
+    font-family: 'Sacramento', cursive;
+    font-family: 'Tangerine', cursive; 
+}
+
+.MenuIcon{
+    margin-left: 20px;
+
+}
+.header{
+    position: sticky;
+    top: 0;
+    min-height: 70px;
+    width: 95%;
+    margin: 0 auto;
+    display: flex;
+    background-color: rgb(7, 7, 7);
+    color: bisque;
+    justify-content: space-between;
+    align-items: center;
+
+}
+/* .nav-head{
+    margin-left: 10px;
+    font-weight: bold;
+    text-align: left;
+    font-family: 'Festive', cursive;
+    font-family: 'Great Vibes', cursive;
+    font-family: 'Sacramento', cursive;
+    font-family: 'Tangerine', cursive;
+} */
+.logo{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: rgb(255, 254, 254);
+    padding-left: 40px;
+
+}
+.header-link{
+    display: flex;
+
+}
+.header-link ul li{
+    list-style: none;
+    display: inline-block;
+    font-size: large;
+}
+.header-link ul li a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: white;
+    padding: 0px 15px;
+}
+.header-link ul li:hover{
+    color: greenyellow;
+
+    
+}

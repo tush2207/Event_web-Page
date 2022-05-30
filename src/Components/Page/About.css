@@ -1,0 +1,43 @@
+
+.map{
+    width: 92%;
+    height:500px;
+    margin-bottom: 50px;
+    align-items: center;   
+    display: block;
+    object-fit: cover;
+    margin-left: 50px;
+    margin-right:20px;
+    border-radius: 8px;
+    border: 2px solid black;
+
+}
+
+
+.nav-item{
+    text-align: center;
+    margin-left: 10%    ;
+    margin-bottom: 12%;
+
+}
+
+.nav-link{
+   font-weight: bold;
+   font-family: 'Times New Roman', Times, serif;
+   border: black solid  3px;
+   border-radius:5px;
+
+}
+h3{
+    font-size:3rem;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.contact{
+    font-size: 1.5rem;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px;
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+}
